@@ -22,5 +22,5 @@ talking about arithmetic geometry, homotopy theory, formal mathematics, and
 the prospects of automated reasoning.
 
 See also my [google
-scholar](https://scholar.google.com/citations?user=TbTCE3gAAAAJ&hl=en), and
+scholar](https://scholar.google.com/citations?user=TbTCE3gAAAAJ&hl=en) and
 [github](https://github.com/LennyTaelman) profiles.
