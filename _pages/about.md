@@ -24,7 +24,7 @@ See also my [google
 scholar](https://scholar.google.com/citations?user=TbTCE3gAAAAJ&hl=en) and
 [github](https://github.com/LennyTaelman) profiles.
 
-The other staff members of the Algebraic Geometry group at the KdV Institute are
+The other staff members of the Algebraic Geometry group are
 [Gerard van der Geer](http://gerard.vdgeer.net/), [Arno
 Kret](https://staff.fnwi.uva.nl/a.l.kret/), [Diletta
 Martinelli](https://www.uva.nl/en/profile/m/a/d.martinelli/d.martinelli.html), and
