@@ -7,7 +7,6 @@ subtitle:
 profile:
   align: right
   image: lt.jpg
-  image_circular: false # crops the image to make it circular
   more_info: >
     <p>l.d.j.taelman@uva.nl</p>
     <p>F3.05, Science Park 107</p>
