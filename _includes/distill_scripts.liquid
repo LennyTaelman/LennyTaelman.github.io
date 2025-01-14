@@ -66,6 +66,7 @@
   <script defer src="{{ '/assets/js/progress-bar.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
 {% endif %}
 
+{% comment %}
 {% if page.images %}
   <!-- Image Layouts -->
   {% if page.images.compare %}
@@ -95,14 +96,8 @@
       crossorigin="anonymous"
     ></script>
   {% endif %}
-  {% if page.images.spotlight %}
-    <script
-      defer
-      src="{{ site.third_party_libraries.spotlight.url.js }}"
-      crossorigin="anonymous"
-    ></script>
-  {% endif %}
 {% endif %}
+{% endcomment %}
 
 {% if site.back_to_top %}
   <!-- Back to Top -->
