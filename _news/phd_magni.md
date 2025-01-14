@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 Today [Pablo Magni](https://pjmagni.bitbucket.io/) defended his thesis 
-[Derived Equivalences of Generalized Kummer
-Varieties](https://hdl.handle.net/2066/295328). Congratulations to Pablo!
+[*Derived Equivalences of Generalized Kummer
+Varieties*](https://hdl.handle.net/2066/295328). Congratulations to Pablo!
