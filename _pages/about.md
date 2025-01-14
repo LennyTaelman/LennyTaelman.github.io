@@ -15,7 +15,11 @@ profile:
 news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
-I am a professor of Algebraic Geometry at the [KdV Institute for Mathematics](https://kdvi.uva.nl/) of the [University of Amsterdam](https://www.uva.nl/).
+I am a professor of Algebraic Geometry at the [KdV Institute for
+Mathematics](https://kdvi.uva.nl/)
+of the [University of Amsterdam](https://www.uva.nl/). I enjoy thinking and
+talking about arithmetic geometry, homotopy theory, formal mathematics, and 
+the prospects of automated reasoning.
 
 See also my [google
 scholar](https://scholar.google.com/citations?user=TbTCE3gAAAAJ&hl=en), and
