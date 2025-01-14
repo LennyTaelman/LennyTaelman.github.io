@@ -27,7 +27,7 @@ scholar](https://scholar.google.com/citations?user=TbTCE3gAAAAJ&hl=en) and
 The other staff members of the Algebraic Geometry group are
 [Gerard van der Geer](http://gerard.vdgeer.net/), [Arno
 Kret](https://staff.fnwi.uva.nl/a.l.kret/), [Diletta
-Martinelli](https://www.uva.nl/en/profile/m/a/d.martinelli/d.martinelli.html), and
+Martinelli](https://dilettamartinelli.wixsite.com/mysite), and
 [Mingmin Shen](https://staff.fnwi.uva.nl/m.shen/). We run a local [Arithmetic
 and Algebraic Geometry
 seminar](https://staff.fnwi.uva.nl/a.l.kret/Seminar/seminar.html) and take part
