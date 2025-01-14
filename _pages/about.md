@@ -11,4 +11,4 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Office F3.05, Science Park 107, 1098 XH Amsterdam.
+Office: F3.05, Science Park 107. Email: [l.d.j.taelman@uva.nl](mailto:l.d.j.taelman@uva.nl)
