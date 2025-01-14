@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-12-17 17:00:00
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Wouter Rienks has defended his thesis [Deforming Fourier-Mukai transforms](https://hdl.handle.net/11245.1/919eefff-b104-43ab-aaa9-216346931a81). Congratulations to Wouter!
