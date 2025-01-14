@@ -13,7 +13,6 @@ profile:
     <p>l.d.j.taelman@uva.nl</p>
 
 news: true # includes a list of news items
-social: false # includes social icons at the bottom of the page
 ---
 I am a professor of Algebraic Geometry at the [KdV Institute for
 Mathematics](https://kdvi.uva.nl/)
