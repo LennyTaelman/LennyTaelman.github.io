@@ -13,27 +13,6 @@
   crossorigin="anonymous"
 ></script>
 
-{% if page.code_diff %}
-  <!-- Diff2HTML -->
-  <!-- diff2html doesn't go well with Bootstrap Table -->
-  <script
-    src="{{ site.third_party_libraries.diff2html.url.js }}"
-    integrity="{{ site.third_party_libraries.diff2html.integrity.js }}"
-    crossorigin="anonymous"
-  ></script>
-  <script defer src="{{ '/assets/js/diff2html-setup.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
-{% endif %}
-
-{% if page.map %}
-  <!-- Leaflet -->
-  <script
-    src="{{ site.third_party_libraries.leaflet.url.js }}"
-    integrity="{{ site.third_party_libraries.leaflet.integrity.js }}"
-    crossorigin="anonymous"
-  ></script>
-  <script defer src="{{ '/assets/js/leaflet-setup.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
-{% endif %}
-
 
 {% if page.tikzjax %}
   <!-- Tikzjax -->
@@ -43,27 +22,6 @@
     integrity="sha256-+1qyucCXRZJrCg3lm3KxRt/7WXaYhBid4/1XJRHGB1E="
     crossorigin="anonymous"
   ></script>
-{% endif %}
-
-{% if page.typograms %}
-  <!-- Typograms -->
-  <script src="{{ '/assets/js/typograms.js' | relative_url | bust_file_cache }}"></script>
-{% endif %}
-
-{% if site.enable_tooltips %}
-  <!-- Tooltips -->
-  <script src="{{ '/assets/js/tooltips-setup.js' | relative_url | bust_file_cache }}"></script>
-{% endif %}
-
-{% if site.enable_medium_zoom %}
-  <!-- Medium Zoom JS -->
-  <script
-    defer
-    src="{{ site.third_party_libraries.medium_zoom.url.js }}"
-    integrity="{{ site.third_party_libraries.medium_zoom.integrity.js }}"
-    crossorigin="anonymous"
-  ></script>
-  <script defer src="{{ '/assets/js/zoom.js' | relative_url | bust_file_cache }}"></script>
 {% endif %}
 
 
@@ -144,20 +102,6 @@
       crossorigin="anonymous"
     ></script>
   {% endif %}
-  {% if page.images.venobox %}
-    <script
-      defer
-      src="{{ site.third_party_libraries.venobox.url.js }}"
-      integrity="{{ site.third_party_libraries.venobox.integrity.js }}"
-      crossorigin="anonymous"
-    ></script>
-    <script defer src="{{ '/assets/js/venobox-setup.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
-  {% endif %}
-{% endif %}
-
-{% if page.tabs %}
-  <!-- Jekyll Tabs -->
-  <script src="{{ '/assets/js/tabs.min.js' | relative_url | bust_file_cache }}"></script>
 {% endif %}
 
 {% if site.back_to_top %}
