@@ -29,11 +29,6 @@ table {
     font-size: 1rem;
     padding: 1px 1rem 1px 0;
   }
-
-  th {
-    font-family: monospace;
-    font-size: 96%;
-  }
 }
 
 a,
@@ -658,3 +653,13 @@ swiper-container {
   }
 }
 
+/* News */
+.news-item {
+  margin-bottom: 0.5em;
+}
+
+.news-date {
+  font-size: 0.875rem;
+  color: var(--global-text-color-light);
+  font-family: monospace;
+}
