@@ -12,7 +12,6 @@ profile:
     <p>F3.05, Science Park 107</p>
 
 news: true # includes a list of news items
-news_limit: 8 # maximum number of news items to show
 
 ---
 I am a professor of Algebraic Geometry at the [KdV Institute for
