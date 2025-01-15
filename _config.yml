@@ -3,8 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Lenny Taelman # the website title (if blank, full name will be used instead)
-first_name: Lenny
-last_name: Taelman
+author: Lenny Taelman
 description: Academic website of Lenny Taelman
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
