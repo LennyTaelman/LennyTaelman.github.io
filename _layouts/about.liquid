@@ -41,7 +41,8 @@ layout: default
    <!-- Group -->
    <h2>Group</h2>
    <div class="group-section">
-     {% include_relative _sections/group.md %}
+     {% capture group_content %}{% include_relative _sections/group.md %}{% endcapture %}
+     {{ group_content | markdownify }}
    </div>
 
   </article>
