@@ -17,7 +17,8 @@ news: true # includes a list of news items
 I am a professor of Algebraic Geometry at the [KdV Institute for
 Mathematics](https://kdvi.uva.nl/)
 of the [University of Amsterdam](https://www.uva.nl/). I enjoy thinking and
-talking about arithmetic geometry, homotopy theory, and formal mathematics.
+talking about anything related to arithmetic geometry, homotopy theory, or computer
+assisted proofs.
 
 See also my [google
 scholar](https://scholar.google.com/citations?user=TbTCE3gAAAAJ&hl=en) and
