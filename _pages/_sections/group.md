@@ -20,5 +20,5 @@ Rienks](https://kdvi.uva.nl/profile/r/i/w.h.rienks/w.h.rienks.html), Zoë
 Schroot, [Maciek
 Zdanowicz](https://scholar.google.com/citations?user=WI61I80AAAAJ&hl=en), Wessel
 Bindt, [Chris Lazda](https://sites.google.com/view/cdlazda/home), [Maxim
-Mornev](https://people.math.ethz.ch/~mmornev/), [Lance
+Mornev](https://sma.epfl.ch/~mornev/), [Lance
 Gurney](https://maths-people.anu.edu.au/~gurney/), Christophe Debry.
