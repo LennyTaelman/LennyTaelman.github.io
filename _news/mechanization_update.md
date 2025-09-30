@@ -9,5 +9,5 @@ The
 and [public symposium](https://sites.google.com/view/mechanicalmath) on
 mechanization of mathematics are at full capacity, and registration is now
 closed. Unfortunately we cannot accommodate unregistered walk-ins. Recordings of the symposium will be made
-available shortly after the even.
+available shortly after the event.
 
