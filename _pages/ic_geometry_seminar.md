@@ -48,16 +48,19 @@ May 8, Radboud Universiteit Nijmegen
 ### 2019: The logarithmic Picard group (after Molcho and Wise)
 
 **Website:** [https://pub.math.leidenuniv.nl/~holmesdst/intercity_2019.html](https://pub.math.leidenuniv.nl/~holmesdst/intercity_2019.html)
+
 **Organisers:**  David Holmes (Leiden), Chris Lazda (Amsterdam), Adrien Sauvaget (Utrecht), Arne Smeets (Nijmegen)
 
 ### 2018: Mirror symmetry for Higgs bundles via p-adic integration (after Groechenig, Wyss, Ziegler)
 
 **Website:**  
+
 **Organisers:** David Holmes (Leiden), Chris Lazda (Amsterdam), Arne Smeets (Nijmegen)
 
 ### 2016: Hodge isometries between K3 surfaces (after Buskin)
 
 **Website:** [https://staff.fnwi.uva.nl/l.d.j.taelman/ic2016.html](https://staff.fnwi.uva.nl/l.d.j.taelman/ic2016.html)
+
 **Organisers:** Lenny Taelman (Amsterdam)
 
 ---
