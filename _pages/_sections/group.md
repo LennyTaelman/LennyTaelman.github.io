@@ -8,8 +8,8 @@ We run a local [Arithmetic
 and Algebraic Geometry
 seminar](https://staff.fnwi.uva.nl/a.l.kret/Seminar/seminar.html) and take part
 in various national seminars, including the [Belgian-Dutch Algebraic Geometry
-Days](https://www.math.ru.nl/~bmoonen/BNL.html) and the [Intercity Number Theory
-Seminar](http://pub.math.leidenuniv.nl/~brightmj/ic/current.html).
+Days](https://www.math.ru.nl/~bmoonen/BNL.html), the [Intercity Number Theory
+Seminar](http://pub.math.leidenuniv.nl/~brightmj/ic/current.html), and the [Intercity Geometry Seminar (archive)](/ic_geometry_seminar/).
 
 My current and former PhD students and postdocs include:
 [Dhyan Aranha](https://dhyan-aranha.github.io/), [Simon Pepin Lehalleur](https://simon-pepin.github.io/), [Zhouhang
