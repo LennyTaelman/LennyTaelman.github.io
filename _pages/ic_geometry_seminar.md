@@ -1,8 +1,8 @@
 ---
-layout: about
+layout: post
 title: IC Geometry Seminar Archive
 permalink: /ic_geometry_seminar/
-subtitle: 
+date: 2025-09-30
 ---
 
 The Intercity Geometry Seminar is a series of study seminars held each year in the Netherlands on recent progress in the field of algebraic geometry.
