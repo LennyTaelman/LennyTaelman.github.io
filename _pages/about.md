@@ -16,12 +16,13 @@ news: true # includes a list of news items
 ---
 I am a professor of Algebraic Geometry at the [KdV Institute for
 Mathematics](https://kdvi.uva.nl/)
-of the [University of Amsterdam](https://www.uva.nl/). I enjoy thinking and
+of the [University of Amsterdam](https://www.uva.nl/). Currently I am on leave
+from academia to work as a Visiting Researcher at [Google DeepMind](https://deepmind.google/science/).
+
+I enjoy thinking and
 talking about a broad range of mathematical topics, and lately have been interested
 in many things related to arithmetic geometry, homotopy theory, or computer
-assisted proofs.
-
-See also my [google
+assisted proofs. See also my [google
 scholar](https://scholar.google.com/citations?user=TbTCE3gAAAAJ&hl=en) and
 [github](https://github.com/LennyTaelman) profiles.
 
