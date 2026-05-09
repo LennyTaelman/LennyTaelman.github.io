@@ -7,6 +7,18 @@ date: 2025-09-30
 
 The Intercity Geometry Seminar is a series of study seminars held each year in the Netherlands on recent progress in the field of algebraic geometry.
 
+#### 2026: Matroids and the Hodge conjecture (after Engel, de Gaay Fortman and Schreieder)
+
+27 February, University of Antwerp.
+27 March, Leiden University.
+24 April, Utrecht University.
+5 June, Radboud University Nijmegen.
+
+**Website**:
+[https://sites.google.com/view/lucagiove/home/intercity-seminar-on-matroids-and-hodge-conjecture](https://sites.google.com/view/lucagiove/home/intercity-seminar-on-matroids-and-hodge-conjecture)
+
+**Organizers**: Carel Faber (Utrecht), Luca Giovenzana (Antwerp), Zhelun Chen (Leiden).
+
 #### 2025: Resolution of singularities (after Abramovich, Temkin, and Włodarczyk)
 
 21 February, Universiteit Utrecht.  
