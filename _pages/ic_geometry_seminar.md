@@ -43,7 +43,9 @@ May 24 (Antwerp)
 
 #### 2022: Condensed mathematics (after Clausen and Scholze)
 
-**Website:**  [https://webspace.science.uu.nl/~dobbe012/condensed.html](https://webspace.science.uu.nl/~dobbe012/condensed.html)
+**Website:**
+[https://webspace.science.uu.nl/~dobbe012/condensed.html](https://webspace.science.uu.nl/~dobbe012/condensed.html)
+
 **Organisers:**  Lenny Taelman (Amsterdam), Ben Moonen (Nijmegen), David Holmes (Leiden), Remy van Dobben de Bruyn (Utrecht)
 
 #### 2020: The P=W conjecture for parabolic Higgs bundles (after Shen and Zhang)
